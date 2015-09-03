@@ -1,0 +1,1 @@
+The git-it Node School module solutions. This is also a challenge on [Free Code Camp](https://freecodecamp.com) which has really helped advance knowledge! I would recommend it to anyone. Please check it out
